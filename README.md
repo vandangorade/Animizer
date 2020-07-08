@@ -45,7 +45,7 @@ pip install virtualenv
 
 2. Clone the repo
 ```sh
-git clone https://github.com/vandangorade/CreditCardFraud.git
+git clone https://github.com/vandangorade/Animizer.git
 ```
 
 3. Install virtualenv and activate it from your project root.
