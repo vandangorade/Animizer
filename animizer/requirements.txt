@@ -6,7 +6,7 @@ cloudpickle==1.5.0
 cycler==0.10.0
 decorator==4.4.2
 Flask==1.1.1
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 gast==0.3.3
 grpcio==1.30.0
 gunicorn==19.9.0
